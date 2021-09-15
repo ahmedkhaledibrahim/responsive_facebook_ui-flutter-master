@@ -4,4 +4,6 @@
 
 ![Web Screenshot](screenshots/facebook-web.png)
 
-![Widget & File Structure Diagram](screenshots/widget_file_structure_diagram.png)
+![screen record](screenshots/screenrecord.mp4)
+
+
