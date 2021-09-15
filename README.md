@@ -2,7 +2,7 @@
 
 ![Mobile Screenshot](screenshots/facebook-mobile.png)
 
-![Web Screenshot](screenshots/facebook-web.png)
+![Web Screenshot](screenshots/webscreening.png)
 
 ![screen record](screenshots/screenrecord.mp4)
 
